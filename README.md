@@ -2,8 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## This project used the following YouTube video
 
-###Nextjs layout tutorial: Build a shared layout with nav bar, styled with css modules
+### Nextjs layout tutorial: Build a shared layout with nav bar, styled with css modules
 
-###By: ui-code-tv
+### By: ui-code-tv
 
-Open [https://www.youtube.com/watch?v=prbOI7G0RvY&ab_channel=ui-code-tv](Here to view).
+Open (Here to view).[https://www.youtube.com/watch?v=prbOI7G0RvY&ab_channel=ui-code-tv]
