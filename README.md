@@ -6,4 +6,4 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ### By: ui-code-tv
 
-Open (Here to view).[https://www.youtube.com/watch?v=prbOI7G0RvY&ab_channel=ui-code-tv]
+Open [Here to view].(https://www.youtube.com/watch?v=prbOI7G0RvY&ab_channel=ui-code-tv)
